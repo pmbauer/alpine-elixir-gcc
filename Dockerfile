@@ -1,4 +1,4 @@
-FROM pmbauer/elixir-dev:1.2.1
+FROM pmbauer/elixir-dev:1.2.2
 
 RUN apk --update add gcc make libc-dev libgcc && rm -rf /var/cache/apk/*
 

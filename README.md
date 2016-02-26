@@ -3,7 +3,7 @@ Elixir on Alpine Linux + GCC
 
 Elixir minimal environment for compiling Elixir applications with NIFs.
 
-Latest version: **1.2.1**  
+Latest version: **1.2.2**  
 Image size: **147.5 MB**  
 Parent: [pmbauer/elixir-dev](https://github.com/pmbauer/alpine-erlang)
 
